@@ -1,3 +1,4 @@
+{% include graphql-enum %}
 # Includes
 
 The files in this directory are "includes", snippets of HTML that can be 
